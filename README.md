@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **LinaRico/LinaRico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Actualmente estoy aprendiendo sobre el mundo de la programacion
 Estoy buscando aprender cada dia mas
