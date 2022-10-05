@@ -1,6 +1,8 @@
 
 ### :zap:***Bienvenidos a mi perfil*** :zap:
-#### Mi objetivo es aprender cada día más, asi que si tienes algo de lo que pueda que aporte a mi proceso ¡Bienvenido sea :computer:
+
+#### Mi objetivo es aprender cada día más, así que si tienes algo que pueda aportar a mi proceso ¡Bienvenido sea! :computer:
+
 - :dog: Amante de los perros.
 - :cyclone: De los dias en calma.
 - :sunflower: De la naturaleza, y todo lo que nos conecte con nosotros mismos.
