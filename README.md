@@ -8,7 +8,6 @@
 - :sunflower: De la naturaleza, y todo lo que nos conecte con nosotros mismos.
 
 
-Skills:  JS / HTML / CSS
 
 - 🌱 Actualmente me encuentro aprendiendo JS/HTML/CSS 
   
